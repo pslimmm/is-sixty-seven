@@ -1,0 +1,24 @@
+{
+  "name": "is-sixty-seven",
+  "version": "1.0.0",
+  "description": "check if a number is sixty seven",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pslimmm/is-sixty-seven.git"
+  },
+  "keywords": [
+    "is",
+    "sixty",
+    "seven"
+  ],
+  "author": "67",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pslimmm/is-sixty-seven/issues"
+  },
+  "homepage": "https://github.com/pslimmm/is-sixty-seven#readme"
+}
