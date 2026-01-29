@@ -1,6 +1,6 @@
 {
   "name": "is-sixty-seven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if a number is sixty seven",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "is",
     "sixty",
-    "seven"
+    "seven",
+    "is-sixty-seven"
   ],
   "author": "67",
   "license": "ISC",
